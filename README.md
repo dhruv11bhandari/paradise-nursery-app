@@ -1,5 +1,5 @@
 A front-end React + Redux shopping application to browse and buy houseplants.  
-Created as the final project for the course.
+Created as the final project for a course on coursera.
 
 GitHub Repo: [https://github.com/dhruv11bhandari/paradise-nursery-app](https://github.com/dhruv11bhandari/paradise-nursery-app)
 
